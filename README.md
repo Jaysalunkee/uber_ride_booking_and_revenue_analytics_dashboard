@@ -1,10 +1,10 @@
 # Uber Ride Booking & Revenue Analytics
 
-## 📊 Project Overview
+## Project Overview
 
 An interactive **Power BI dashboard** built to analyze Uber ride bookings, revenue, vehicle performance, customer ratings, and booking trends. The dashboard helps identify key business insights and performance patterns through interactive visuals and KPIs.
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze total bookings and revenue performance
 * Compare different vehicle types
@@ -13,14 +13,14 @@ An interactive **Power BI dashboard** built to analyze Uber ride bookings, reven
 * Identify daily, monthly, and time-based booking trends
 * Monitor overall ride performance
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-* **Power BI** – Dashboard & data visualization
+* **Power BI** – Dashboard and data visualization
 * **DAX** – Measures and calculated columns
 * **Power Query** – Data cleaning and transformation
 * **Excel** – Data preparation and source data
 
-## 📌 Key KPIs
+## Key KPIs
 
 * Total Bookings
 * Completed Bookings
@@ -30,25 +30,26 @@ An interactive **Power BI dashboard** built to analyze Uber ride bookings, reven
 * Customer Rating
 * Driver Rating
 
-## 📈 Dashboard Analysis
+## Dashboard Analysis
 
-* Booking & revenue overview
+* Booking and revenue overview
 * Vehicle type performance
 * Booking status analysis
 * Revenue trends
-* Customer & driver ratings
+* Customer and driver ratings
 * Time-based booking trends
 * Interactive filters and slicers
 
-## 💡 Key Insights
+## Key Insights
 
-The dashboard provides a clear view of booking performance, revenue contribution, vehicle demand, cancellations, ratings, and business trends, helping understand overall ride-booking performance.
+The dashboard provides a clear view of booking performance, revenue contribution, vehicle demand, cancellations, ratings, and business trends, helping stakeholders understand overall ride-booking performance.
 
+---
 
-## 👨‍💻 Author
-*Jay Salunke
-*linkedin.com/in/jay-salunke-bba705320
+## Author
 
 **Jay Salunke**
+
+**LinkedIn:** [linkedin.com/in/jay-salunke-bba705320](https://www.linkedin.com/in/jay-salunke-bba705320/?utm_source=chatgpt.com)
 
 **Skills:** Power BI | DAX | Power Query | Excel | Data Analytics
